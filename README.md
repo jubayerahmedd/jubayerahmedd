@@ -4,6 +4,8 @@
 
 🧪 QA & Test Automation Engineer at **Appifylab**
 
+🎓 BSc in CSE from **Metropolitan University**
+
 🛡️ Building reliable software through automated testing
 
 💻 Currently working on **Testing-Automation** (TypeScript)
@@ -15,6 +17,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubayerahmedd/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ahjubayer)
 
 ## 🛠️ Technologies I Use
+
+### 🧪 QA & Test Automation
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 🌐 Frontend
 
